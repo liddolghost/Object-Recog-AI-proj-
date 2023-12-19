@@ -1,0 +1,21 @@
+0 person
+1 phone
+2 laptop
+3 bag
+4 chair
+5 bottle
+6 window
+7 umbrella
+8 notebook
+9 dog
+10 tree
+11 cat
+12 car
+13 traffic light
+14 ball
+15 flower
+16 keyboard
+17 clock
+18 pen
+19 pc mouse
+20 shoes
